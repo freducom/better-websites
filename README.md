@@ -14,3 +14,6 @@ Watch the repo to keep posted on all changes and additions to it!
 
 ## Better Accessibility
 - [Using CSS to hide a portion of the link text](https://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/C7) "Include CTA context for screen readers, hide from others"
+
+## Better SEO
+- [Google’s ads just look like search results now](https://www.theverge.com/tldr/2020/1/23/21078343/google-ad-desktop-design-change-favicon-icon-ftc-guidelines) "Favicons become more important!"
