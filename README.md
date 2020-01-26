@@ -13,6 +13,7 @@ Watch the repo to keep posted on all changes and additions to it!
 - [Why your site needs HTTPS, for USABILITY reasons!](https://www.troyhunt.com/heres-why-your-static-website-needs-https/) "Don't let comcast/norwegian hijack your site"
   - [Let's encrypt](https://letsencrypt.org/) "Free SSL certificates"
 - [Improve Your Sign-Up Form](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/) "Visual appeal adds contrast and usability"
+- [Revisiting:Visited](http://joelcalifa.com/blog/revisiting-visited/) "Help users see what they've seen"
 
 ## Better Accessibility
 - [Using CSS to hide a portion of the link text](https://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/C7) "Include CTA context for screen readers, hide from others"
