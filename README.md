@@ -14,6 +14,7 @@ Watch the repo to keep posted on all changes and additions to it!
   - [Let's encrypt](https://letsencrypt.org/) "Free SSL certificates"
 - [Improve Your Sign-Up Form](https://uxmovement.com/forms/improve-your-sign-up-form-with-off-white-text-fields/) "Visual appeal adds contrast and usability"
 - [Revisiting:Visited](http://joelcalifa.com/blog/revisiting-visited/) "Help users see what they've seen"
+- [SVG images for your brand color](http://undraw.co/illustrations) "Pick your color & download an SVG to increase understandability"
 
 ## Better Accessibility
 - [Using CSS to hide a portion of the link text](https://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/C7) "Include CTA context for screen readers, hide from others"
@@ -21,7 +22,7 @@ Watch the repo to keep posted on all changes and additions to it!
 
 ## MOAR Speed
 - [Pingdom's speedtest](https://tools.pingdom.com/) "If you get <100, do something!"
-- [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) "If your site takes 3sec+ in 3G your users will leave"
+- [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) "If your site takes 3sec+ over 3G your users will leave"
 
 
 ## Better SEO
