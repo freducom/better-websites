@@ -2,7 +2,7 @@
 
 A curated list of awesome resources from around the Internet on Usability, Accessibility, Responsive design and anything related.
 
-This list is built for you all web designers – to help you build a better Internet. A web that can be used on mobile over 3G or worse. A web can be used by anyone, regardless of eyesight. A web that focuses on value instead of pushy popups and other sneaky mean of stealing your attention. A web as it was intended to be used.
+This list is built for all you web designers – to help you build a better Internet. An Internet that can be used on mobile over 3G or worse. An Internet that can be used by anyone, regardless of eyesight or other accessibility issues. An Internet that focuses on value instead of pushy popups and sneaky means of stealing your attention. An Internet as it was intended to be used.
 
 Watch the repo to keep posted on all changes and additions to it!
 
@@ -23,6 +23,7 @@ Watch the repo to keep posted on all changes and additions to it!
 ## MOAR Speed
 - [Pingdom's speedtest](https://tools.pingdom.com/) "If you get <100, do something!"
 - [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) "If your site takes 3sec+ over 3G your users will leave"
+- [GTMetrix](https://gtmetrix.com/) "Truly great speed testing"
 
 
 ## Better SEO
