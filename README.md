@@ -24,6 +24,7 @@ Watch the repo to keep posted on all changes and additions to it!
 - [Pingdom's speedtest](https://tools.pingdom.com/) "If you get <100, do something!"
 - [Google pagespeed](https://developers.google.com/speed/pagespeed/insights/) "If your site takes 3sec+ over 3G your users will leave"
 - [GTMetrix](https://gtmetrix.com/) "Truly great speed testing"
+- [Supervisor](https://demo.supervisor.com/) "Test your site's response time with up to 50 concurrent users"
 
 
 ## Better SEO
