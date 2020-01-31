@@ -19,6 +19,7 @@ Watch the repo to keep posted on all changes and additions to it!
 ## Better Accessibility
 - [Using CSS to hide a portion of the link text](https://www.w3.org/TR/2012/NOTE-WCAG20-TECHS-20120103/C7) "Include CTA context for screen readers, hide from others"
 - [Accessible Brand Colors](https://abc.useallfive.com/) "Ensure your brand colors are readable i.e. have enough contrast"
+- [Designing accessible colors](https://stripe.com/en-fi/blog/accessible-color-systems) "Designing accessible color systems doesn’t have to mean fumbling around in the dark"
 
 ## MOAR Speed
 - [Pingdom's speedtest](https://tools.pingdom.com/) "If you get <100, do something!"
