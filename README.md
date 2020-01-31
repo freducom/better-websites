@@ -1,8 +1,8 @@
-# Let's make the web better!
+# Build a better web!
 
-A curated list of awesome resources from around the Internet on Usability, Accessibility, Responsive design and anything related.
+This is a curated list of resources on Usability, Accessibility, Responsive design and anything related to building better websites.
 
-This list is built for all you web designers – to help you build a better Internet. An Internet that can be used on mobile over 3G or worse. An Internet that can be used by anyone, regardless of eyesight or other accessibility issues. An Internet that focuses on value instead of pushy popups and sneaky means of stealing your attention. An Internet as it was intended to be used.
+Come join in the fight to build a better Internet. An Internet that is usable on mobile 3G. An Internet that can be used by anyone, regardless of eyesight. An Internet that focuses on value instead of pushy popups and sneaky means of stealing your attention. An Internet as it was intended to be used.
 
 Watch the repo to keep posted on all changes and additions to it!
 
