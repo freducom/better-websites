@@ -9,6 +9,7 @@ Watch the repo to keep posted on all changes and additions to it!
 
 ## Better Usability
 
+- [Common webpage design mistages](http://blog-en.tilda.cc/articles-website-design-mistakes) "Really easy to understand hands-on examples of how not to design your web page"
 - [The new landing page is to have no landing page at all](https://uxdesign.cc/the-new-landing-page-is-to-have-no-landing-page-at-all-bb57ca1548f1) "Get to the point faster"
 - [Why your site needs HTTPS, for USABILITY reasons!](https://www.troyhunt.com/heres-why-your-static-website-needs-https/) "Don't let comcast/norwegian hijack your site"
   - [Let's encrypt](https://letsencrypt.org/) "Free SSL certificates"
