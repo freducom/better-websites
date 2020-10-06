@@ -2,7 +2,7 @@
 
 This is a curated list of resources on Usability, Accessibility, Responsive design and anything related to building better websites.
 
-Come join in the fight to build a better Internet. An Internet that is usable on mobile 3G. An Internet that can be used by anyone, regardless of eyesight. An Internet that focuses on value instead of pushy popups and sneaky means of stealing your attention. An Internet as it was intended to be used.
+Come join in the fight to build a better Internet. An Internet that is usable on mobile 3G, 4G and etc. An Internet that can be used by anyone, regardless of eyesight. An Internet that focuses on value instead of pushy popups and sneaky means of stealing your attention. An Internet as it was intended to be used.
 
 Watch the repo to keep posted on all changes and additions to it!
 
